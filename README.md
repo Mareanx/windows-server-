@@ -3,3 +3,5 @@ Este repositório contém informações e documentação relacionadas à impleme
 
 Descrição
 O projeto tem como objetivo principal configurar e administrar um servidor Windows Server 2016 em uma máquina virtual, utilizando o software VirtualBox para simulação de ambiente.
+
+https://github.com/Mareanx/windows-server-/wiki/WIki-Windows-Server-2016
